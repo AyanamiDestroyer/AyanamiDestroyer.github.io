@@ -803,7 +803,7 @@
     <div class="container row center-align">
         <div class="col s12 m8 l8 copy-right">
             Copyright&nbsp;&copy;
-            <span id="year">2018</span>
+            <span id="year">2020</span>
             <a href="/about" rel="external nofollow noreferrer">Phantom</a>
             |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
             |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>
@@ -845,8 +845,8 @@
                         var days = hours * 24;
                         var years = days * 365;
                         var today = new Date();
-                        var startYear = "2018";
-                        var startMonth = "09";
+                        var startYear = "2020";
+                        var startMonth = "08";
                         var startDate = "24";
                         var startHour = "0";
                         var startMinute = "0";
@@ -977,6 +977,18 @@
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-176420326-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+        gtag('config', 'UA-176420326-1');
+    </script>
+
 
 <!-- Baidu Analytics -->
 
@@ -1028,7 +1040,7 @@
 
 
 <script>if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/sw.js?t=1598390201902')
+  navigator.serviceWorker.register('/sw.js?t=1598394699412')
     .then(function () {console.log('ServiceWorker Register Successfully.')})
     .catch(function (e) {console.error(e)});
 }
