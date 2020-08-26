@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ayanamidestroyer.github.io/posts/5044.html</loc>
+    <loc>https://ayanamidestroyer.github.io/posts/34584.html</loc>
     
     <lastmod>2020-08-26</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ayanamidestroyer.github.io/posts/6.html</loc>
+    <loc>https://ayanamidestroyer.github.io/posts/5044.html</loc>
     
     <lastmod>2020-08-26</lastmod>
     
@@ -73,27 +73,6 @@
   </url>
 
   
-  <url>
-    <loc>https://ayanamidestroyer.github.io/tags/Hexo/</loc>
-    <lastmod>2020-08-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ayanamidestroyer.github.io/tags/GitHub/</loc>
-    <lastmod>2020-08-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://ayanamidestroyer.github.io/categories/Hexo/</loc>
-    <lastmod>2020-08-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
 </urlset>
